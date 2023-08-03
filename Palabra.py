@@ -40,3 +40,4 @@ while True:
     
     # Agregamos una línea en blanco para separar cada iteración del bucle
     print()
+    
